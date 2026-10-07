@@ -1,7 +1,7 @@
 ﻿streamlit==1.65.0
 numpy==2.2.6
 Pillow==12.3.0
-opencv-python==4.12.0.88
+opencv-python-headless==4.12.0.88
 scipy==1.17.1
 deepface==0.0.101
 keras-facenet==0.3.2
